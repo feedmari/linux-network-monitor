@@ -1,6 +1,6 @@
 # Linux Network Monitor
-A tool that can be used in order to monitor the network on Linux machine.
-This tool was developed during the Offensive Technologies course at University of Trento
+A tool that can be used in order to monitor the network on Linux machines.
+This software was developed during the Offensive Technologies course at University of Trento.
 
 ## Installation
 ```
